@@ -85,7 +85,8 @@ if __name__ == '__main__':
     mglw.run_window_config(App)
 
 ```
-<img src = "example 3d shaders.png">
+<img src = "example 3d.png">
+
 
 
 ### Журнал оценок
